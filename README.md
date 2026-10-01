@@ -32,7 +32,7 @@ Je suis actuellement à la recherche d'une **alternance en développement web**.
 
 Découvrez mon portfolio et mes différents projets :
 
-**🌐 Portfolio :** À ajouter après la mise en ligne
+**🌐 Portfolio :** Portfolio : https://portfolio-linda-sepia.vercel.app
 
 ## 📂 Projets
 

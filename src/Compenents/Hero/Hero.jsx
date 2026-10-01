@@ -6,12 +6,15 @@ const Hero = () => {
   return (
     <div className='hero'id="home">
       <img src={profile} alt="" className="profile" />
-      <h1><span>I'm Linda MAHDJOUB,</span> Fullstack developerrr</h1>
-      <p>I'm Linda MAHDJOUB, Fullstack developer
-      Je suis développeur React.
-Je crée des applications web.
-Je recherche une alternance.
-      </p>
+      <h1>
+  I'm <span>Linda MAHDJOUB</span>, Fullstack Developer
+</h1>
+
+<p>
+  Je suis développeuse Fullstack spécialisée dans la création
+  d'applications web modernes et responsives avec React et Node.js.
+  Je recherche une alternance en développement web.
+</p>
       <div className="hero_action">
         <div className="hero_connect"><a href='#contact'>
             Connect with mem</a>
