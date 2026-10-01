@@ -1,16 +1,69 @@
-# React + Vite
+# Linda MAHDJOUB
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## 👩‍💻 Fullstack Developer
 
-Currently, two official plugins are available:
+Bonjour ! Je suis **Linda Mahdjoub**, développeuse web passionnée par la création d'applications modernes, responsives et intuitives.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Je développe principalement avec **React et JavaScript** et je m'intéresse également au développement backend avec **Node.js**.
 
-## React Compiler
+Je suis actuellement à la recherche d'une **alternance en développement web**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Technologies
 
-## Expanding the Oxlint configuration
+### Frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+### Backend
+
+- Node.js
+
+### Outils
+
+- Git
+- GitHub
+- VS Code
+- Vite
+
+## 💻 Mon Portfolio
+
+Découvrez mon portfolio et mes différents projets :
+
+**🌐 Portfolio :** À ajouter après la mise en ligne
+
+## 📂 Projets
+
+Ce repository contient mon portfolio personnel ainsi que la présentation de mes projets réalisés avec React, JavaScript, HTML et CSS.
+
+Chaque projet présente progressivement :
+
+- une description du projet
+- les technologies utilisées
+- le lien vers le code source
+- le lien vers la démonstration en ligne
+
+## ⚙️ Installation
+
+Pour lancer le projet localement :
+
+```bash
+git clone https://github.com/ALIAdina/portfolio-linda.git
+cd portfolio-linda
+npm install
+npm run dev
+```
+
+Puis ouvre l'adresse indiquée par Vite dans ton navigateur.
+
+## 📧 Contact
+
+**Email :** [mahdjoub.linda2024@gmail.com](mailto:mahdjoub.linda2024@gmail.com)
+
+**GitHub :** https://github.com/ALIAdina
+
+---
+
+© 2026 Linda Mahdjoub. All rights reserved.
