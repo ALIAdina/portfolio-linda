@@ -5,6 +5,7 @@ import call_icon from '../../assets/call_icon.svg'
 import mail_icon from '../../assets/mail_icon.svg'
 import'./contact.css'
 const contact = () => {
+    
   return (
     <div className='contact' id='contact'>
         <div className="contact-title">
@@ -31,7 +32,7 @@ const contact = () => {
             </div>
           
         </div>
-        <form action="" className="contact-right">
+        <form action="https://formspree.io/f/myezapra" className="contact-right" method='post'>
                 <label htmlFor="">Your Name</label>
                 <input type="text" placeholder='Enter your name' name='name' />
                 <label htmlFor="">Your email</label>
