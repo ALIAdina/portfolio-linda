@@ -11,15 +11,46 @@ const MyProjects = () => {
            <img src={about} alt="" />
         </div>
         <div className="myprojet_container">
-            {myprojet_data.map((projet,index)=>{
+           {/* {myprojet_data.map((projet,index)=>{
                 return <img key={index} src={projet.p_img} alt=""/>
-            })}
+            })} */}
+            {myprojet_data.map((projet) => (
+          <div className="project-card" key={projet.p_n1}>
+
+            <img
+className="project-image"
+src={projet.p_img}
+alt={projet.p_name}
+            />
+
+            <h2>{projet.p_name}</h2>
+
+            <div className="project-links">
+              <a
+href={projet.p_github}
+target="_blank"
+rel="noopener noreferrer"
+className="project-link github-link"
+              >
+                GitHub
+              </a>
+
+              <a
+href={projet.p_demo}
+target="_blank"
+rel="noopener noreferrer"
+className="project-link demo-link"
+              >
+                Live Demo
+              </a>
+            </div>
+
+          </div>
+        ))}
+
         </div>
 
-        
-      
     </div>
   )
 }
-
-export default MyProjects
+export default MyProjects;
