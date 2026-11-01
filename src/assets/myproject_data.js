@@ -2,7 +2,7 @@ import project1_img from "./tt.svg";
 import project1 from "./project1.png";
 import project2 from "./projet2.png";
 import project3 from "./projet1.png";
-import project4 from "./project4.png";
+import project4 from "./projet4.png";
 const myproject_data = [
   {
     p_n1: 1,
@@ -27,10 +27,10 @@ const myproject_data = [
   },
   {
     p_n1: 4,
-    p_name: "blog",
+    p_name: "ecommerce (en cours..)",
     p_img: project4,
-    p_github: "https://github.com/ALIAdina/Weather_App",
-    p_demo: "https://weather-app-gray-chi-77.vercel.app",
+    p_github: "https://github.com/ALIAdina/ecommerce-app",
+    p_demo: "https://github.com/ALIAdina/ecommerce-app",
   },
   {
     p_n1: 5,
